@@ -1,5 +1,13 @@
 # astro
 
+## 5.10.2
+
+### Patch Changes
+
+- [#14000](https://github.com/withastro/astro/pull/14000) [`3cbedae`](https://github.com/withastro/astro/commit/3cbedae129579b93f5c18c900ae66c6c11c46da5) Thanks [@feelixe](https://github.com/feelixe)! - Fix routePattern JSDoc examples to show correct return values
+
+- [#13966](https://github.com/withastro/astro/pull/13966) [`598da21`](https://github.com/withastro/astro/commit/598da21746a6b9cda023c818804b32dc37b9819b) Thanks [@msamoylov](https://github.com/msamoylov)! - Fixes a broken link on the default 404 page in development
+
 ## 5.10.1
 
 ### Patch Changes
